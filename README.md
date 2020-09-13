@@ -44,6 +44,10 @@ the application contains the login screen on this screen you just need to enter 
 <img src="Images/Screenshot_20200913-230206_PAYO[1].jpg" width=200 height=400>
 <img src="Images/Screenshot_20200913-230212_PAYO[1].jpg" width=200 height=400>
 <img src="Images/Screenshot_20200913-230221_PAYO[1].jpg" width=200 height=400>
+
+An apk file is provided with the project file the end user just has to download the file directly in the phone and download the app from the myfiles section of your phone below is the apk link to download the apk file
+ link : https://drive.google.com/drive/folders/1prOckiH4h816Fych_1WDm1XXPhpFVaL-?usp=sharing
+ video representation of the app : https://drive.google.com/file/d/1YFux9dDhxxiVeHsWv1M6cH-pkbgkfTkf/view?usp=sharing
   
   
   
